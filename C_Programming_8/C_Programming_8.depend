@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632376205 source:c:\users\tolulope\documents\aptech_c_project\c_programming\c_programming_8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
